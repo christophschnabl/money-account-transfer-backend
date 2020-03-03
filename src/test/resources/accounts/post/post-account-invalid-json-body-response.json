@@ -1,0 +1,1 @@
+{"exception":"com.google.gson.JsonSyntaxException","message":"java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $"}

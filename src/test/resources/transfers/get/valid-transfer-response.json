@@ -1,0 +1,35 @@
+{
+  "accountUuid": "4ea972d6-f23d-40e6-bf2a-86f1a97ae76a",
+  "createdAt": {
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29
+    },
+    "time": {
+      "hour": 9,
+      "minute": 31,
+      "second": 35,
+      "nano": 393887000
+    }
+  },
+  "transfers": [
+    {
+      "amount": 1,
+      "occurredAt": {
+        "date": {
+          "year": 2020,
+          "month": 2,
+          "day": 29
+        },
+        "time": {
+          "hour": 9,
+          "minute": 31,
+          "second": 56,
+          "nano": 801816000
+        }
+      },
+      "otherAccount": "7f392356-0baf-424f-82e7-9523407f19fd"
+    }
+  ]
+}
